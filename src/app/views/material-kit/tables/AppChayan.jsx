@@ -29,7 +29,7 @@ export default function AppChayan() {
 
       
 
-      <SimpleCard title="Pagination Table hi dear Chayan how r u with nice MUI">
+      <SimpleCard title="Pagination Table hlw dear Chayan how r u with nice MUI">
         <PaginationTable />
       </SimpleCard>
     </Container>
